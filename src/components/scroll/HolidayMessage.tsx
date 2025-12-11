@@ -88,7 +88,7 @@ export default function HolidayMessage() {
             opacity: 0.7,
           }}
         >
-          Wishing you warmth and joy
+          Congrats on finishing your exams :3
         </p>
         <div className="flex flex-col items-center space-y-2 pt-4">
           <p
